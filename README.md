@@ -1,3 +1,13 @@
+Readme Sam-
+
+To deploy follow these steps:
+
+update code
+npm run build
+copy index.html in the dist folder to 404.html
+npm run deploy
+commit, push
+
 # Welcome to your Lovable project
 
 ## Project info
