@@ -45,7 +45,7 @@ const Header = () => {
               <span className="text-primary-foreground font-bold text-lg">VK</span>
             </div>
             <div>
-              <h1 className="text-lg font-bold text-foreground">Dr. Vimal Kumar</h1>
+              <h1 className="text-lg font-bold text-foreground">Dr. Dr. Vimal K Singh</h1>
               <p className="text-xs text-muted-foreground">Pediatrician</p>
             </div>
           </div>

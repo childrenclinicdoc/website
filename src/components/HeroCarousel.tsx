@@ -9,7 +9,7 @@ const slides = [
   {
     image: hero1,
     title: "Where compassion meets expert pediatric care",
-    subtitle: "Dedicated to your child’s health and happiness, Dr. Vimal Kumar brings over a decade of trusted expertise in pediatrics and neonatology.",
+    subtitle: "Dedicated to your child’s health and happiness, Dr. Dr. Vimal K Singh brings over a decade of trusted expertise in pediatrics and neonatology.",
   },
   {
     image: hero2,
