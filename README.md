@@ -1,10 +1,16 @@
 Readme Sam-
 
+this website is deployed in hitgub pages
+https://childrenclinicdoc.com/
+
+the deployment happens from gh-pages brnach 
+
 To deploy follow these steps:
 
 update code
 npm run build
 copy index.html in the dist folder to 404.html
+Make sure the CNAME file stays in the gh-pages branch.
 npm run deploy
 commit, push
 
