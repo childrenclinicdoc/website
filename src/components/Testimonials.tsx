@@ -10,7 +10,7 @@ const Testimonials = () => {
       name: "Priya Sharma",
       location: "Mumbai",
       rating: 5,
-      text: "Dr. Dr. Vimal K Singh is an exceptional pediatrician. He's patient, thorough, and genuinely cares about my children's well-being. Highly recommended!",
+      text: "Dr. Vimal K Singh is an exceptional pediatrician. He's patient, thorough, and genuinely cares about my children's well-being. Highly recommended!",
     },
     {
       name: "Rajesh Patel",

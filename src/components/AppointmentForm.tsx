@@ -123,7 +123,7 @@ export default function AppointmentForm() {
 //             Book an Appointment
 //           </h2>
 //           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-//             Schedule a consultation with Dr. Dr. Vimal K Singh for expert pediatric care
+//             Schedule a consultation with Dr. Vimal K Singh for expert pediatric care
 //           </p>
 //         </div>
 

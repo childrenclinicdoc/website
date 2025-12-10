@@ -33,7 +33,7 @@ const Footer = () => {
                 <span className="text-primary-foreground font-bold text-lg">VK</span>
               </div>
               <div>
-                <h3 className="font-bold text-foreground">Dr. Dr. Vimal K Singh</h3>
+                <h3 className="font-bold text-foreground">Dr. Vimal K Singh</h3>
                 <p className="text-xs text-muted-foreground">Pediatrician</p>
               </div>
             </div>
@@ -125,7 +125,7 @@ const Footer = () => {
             Made by Techmint Solutions
           </p>
           <p className="text-xs text-muted-foreground mt-2">
-            © {new Date().getFullYear()} Dr. Dr. Vimal K Singh Pediatric Clinic. All rights reserved.
+            © {new Date().getFullYear()} Dr. Vimal K Singh Pediatric Clinic. All rights reserved.
           </p>
         </div>
       </div>

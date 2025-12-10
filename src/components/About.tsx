@@ -17,11 +17,11 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-              Dr. Dr. Vimal K Singh
+              Dr. Vimal K Singh
             </h2>
             <div className="space-y-4 text-muted-foreground">
               <p className="text-lg leading-relaxed">
-                Dr. Dr. Vimal K Singh is renowned for his compassionate care, precise diagnosis, and commitment to nurturing healthy childhood development.
+                Dr. Vimal K Singh is renowned for his compassionate care, precise diagnosis, and commitment to nurturing healthy childhood development.
               </p>
               <p className="text-lg leading-relaxed">He is currently affiliated with Apollo Cradle Children's Hospital in Greater Noida, part of a leading healthcare network. Previously, he has served at several prestigious hospitals, including Felix Hospital, Noida and Yatharth Super Speciality Hospital, Noida Extension.</p>
               
@@ -114,7 +114,7 @@ const About = () => {
               <div className="absolute -inset-4 bg-gradient-to-r from-primary to-secondary rounded-2xl opacity-20 blur-lg" />
               <img
                 src={doctorProfile}
-                alt="Dr. Dr. Vimal K Singh"
+                alt="Dr. Vimal K Singh"
                 className="relative rounded-2xl shadow-2xl w-full h-auto"
               />
             </div>

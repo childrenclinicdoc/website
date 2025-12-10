@@ -27,7 +27,7 @@ const Expertise = () => {
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             {/* Specialized knowledge and experience in various aspects of child health and development */}
-            Dr. Dr. Vimal K Singh offers comprehensive care across the full spectrum of pediatric and neonatal health, including:
+            Dr. Vimal K Singh offers comprehensive care across the full spectrum of pediatric and neonatal health, including:
           </p>
         </div>
 
